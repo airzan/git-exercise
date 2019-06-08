@@ -1,2 +1,2 @@
 # git-exercise
-Hello world  yet another change!
+Hello world - yet another change!
